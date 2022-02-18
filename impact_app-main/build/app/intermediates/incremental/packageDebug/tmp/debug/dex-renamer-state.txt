@@ -1,0 +1,4 @@
+#Fri Feb 18 01:28:40 PST 2022
+base.0=C\:\\Users\\ajjst\\Downloads\\ChoDi\\ChodiFirebase\\impact_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
